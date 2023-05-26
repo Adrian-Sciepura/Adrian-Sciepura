@@ -14,8 +14,8 @@
 - **E-Mail** adriansciepura@outlook.com
 - **LinkedIn** [ln/adrian-sciepura](https://www.linkedin.com/in/adrian-sciepura/)  
 - **Portfolio** [adrian-sciepura.pl](https://adrian-sciepura.pl/)
-- **CV** [Polish]()
-- **CV** [English]()
+- **CV** [Polish](https://github.com/Adrian-Sciepura/Adrian-Sciepura/blob/main/CV%20-%20PL.pdf)
+- **CV** [English](https://github.com/Adrian-Sciepura/Adrian-Sciepura/blob/main/CV%20-%20EN.pdf)
   
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> 
